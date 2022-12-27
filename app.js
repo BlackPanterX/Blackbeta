@@ -130,6 +130,15 @@ function speakThis(message) {
         speech.text = finalText;
 
     }
+    
+
+    else if(message.includes('come stai')) {
+
+        const finalText = "Fatti i cazzi tuoi";
+
+        speech.text = finalText;
+
+    }
 
 
     else if(message.includes('è il giorno più bello')) {
