@@ -132,7 +132,7 @@ function speakThis(message) {
     }
     
 
-    else if(message.includes('Come và')) {
+    else if(message.includes('hai problemi')) {
 
         const finalText = "Fatti i cazzi tuoi";
 
